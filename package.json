@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/edupoli/chatbotACIL#readme",
   "dependencies": {
-    "venom-bot": "^2.0.24"
+    "fs": "0.0.1-security",
+    "venom-bot": "^2.1.2"
   }
 }
